@@ -31,17 +31,6 @@
 
 ---
 
-<!-- DYNAMIC GITHUB STATS CARDS -->
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=febsoneha&show_icons=true&theme=gotham&count_private=true" alt="Soneha's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=febsoneha&layout=compact&theme=gotham" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=febsoneha&theme=gotham" alt="GitHub Streak" width="97%" />
-</p>
 
 ---
 
