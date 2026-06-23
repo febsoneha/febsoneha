@@ -1,0 +1,55 @@
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffaa&height=200&section=header&text=Hi,%20I'm%20Soneha%20👋&fontSize=50&theme=dark" alt="Header Banner" />
+</p>
+
+<!-- SHORT INTRODUCTION -->
+<p align="center">
+  <strong> Electronics Engineeringn Student | Tech Enthusiast | Open Source Contributor</strong>
+</p>
+
+<p align="center">
+  Welcome to my digital playground! I love building elegant applications and exploring new technologies.
+</p>
+
+---
+
+<!-- SKILLS / TECH STACK SECTION -->
+### 💻 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/AutoCAD-%23E32636.svg?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD" />
+  <img src="https://img.shields.io/badge/Adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+</p>
+
+---
+
+<!-- DYNAMIC GITHUB STATS CARDS -->
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=febsoneha&show_icons=true&theme=gotham&count_private=true" alt="Soneha's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=febsoneha&layout=compact&theme=gotham" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=febsoneha&theme=gotham" alt="GitHub Streak" width="97%" />
+</p>
+
+---
+
+<!-- CONNECT WITH ME -->
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/Soneha Rokka" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
