@@ -5,7 +5,7 @@
 
 <!-- SHORT INTRODUCTION -->
 <p align="center">
-  <strong> Electronics Engineeringn Student | Tech Enthusiast </strong>
+  <strong> Electronics Engineering Student | Tech Enthusiast </strong>
 </p>
 
 <p align="center">
